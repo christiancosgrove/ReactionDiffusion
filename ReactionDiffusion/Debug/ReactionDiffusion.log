@@ -1,0 +1,10 @@
+﻿  MainGame.cpp
+c:\users\christian\documents\visual studio 2015\projects\reactiondiffusion\reactiondiffusion\maingame.cpp(136): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\christian\documents\visual studio 2015\projects\reactiondiffusion\reactiondiffusion\maingame.cpp(137): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\christian\documents\visual studio 2015\projects\reactiondiffusion\reactiondiffusion\maingame.cpp(146): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\christian\documents\visual studio 2015\projects\reactiondiffusion\reactiondiffusion\maingame.cpp(150): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\christian\documents\visual studio 2015\projects\reactiondiffusion\reactiondiffusion\maingame.cpp(152): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\christian\documents\visual studio 2015\projects\reactiondiffusion\reactiondiffusion\maingame.cpp(268): warning C4018: '<': signed/unsigned mismatch
+c:\users\christian\documents\visual studio 2015\projects\reactiondiffusion\reactiondiffusion\maingame.cpp(269): warning C4018: '<': signed/unsigned mismatch
+  ReactionDiffusion.vcxproj -> C:\Users\Christian\documents\visual studio 2015\Projects\ReactionDiffusion\Debug\ReactionDiffusion.exe
+  ReactionDiffusion.vcxproj -> C:\Users\Christian\documents\visual studio 2015\Projects\ReactionDiffusion\Debug\ReactionDiffusion.pdb (Partial PDB)
